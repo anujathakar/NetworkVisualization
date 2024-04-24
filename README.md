@@ -1,0 +1,1 @@
+This project shows a network visualization created using gephi. The resultant viz shows the network of the facebook users. Two separate csv files for nodes and target were used to create this project. The viz was viewed on a web browser using the wampserver.
